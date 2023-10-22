@@ -1,10 +1,9 @@
 # TinDog Project
 
-Created a instagram like Dog-meeting website using HTML , CSS. 
+Tin-Dog is a web-based platform designed for dog owners to find compatible canine companions for their pets.
+Inspired by the popular dating app Tinder, Tin-Dog uses HTML, CSS, and Bootstrap to create a user-friendly and visually appealing website.
 
-
-
-             
+            
 
 ## Text:
 
